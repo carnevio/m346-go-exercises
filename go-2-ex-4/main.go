@@ -41,9 +41,9 @@ func main() {
 		},
 	}
 	modules := map[int][]Class{
-		104: {classA, classB}, // z.B. Programmieren I
-		117: {classB, classC}, // z.B. Datenbanken
-		346: {classA, classC}, // z.B. Cloud-Lösungen konzipieren und realisieren
+		104: {classA, classB},
+		117: {classB, classC},
+		346: {classA, classC},
 	}
 
 	// TODO: output everything using fmt.Println()
